@@ -1,0 +1,19 @@
+# ambiente virtual
+.venv/
+
+# cache python
+__pycache__/
+*.pyc
+
+# arquivos do pytest
+.pytest_cache/
+
+# cache do mypy
+.mypy_cache/
+
+# cache do ruff
+.ruff_cache/
+
+# arquivos do sistema
+.DS_Store
+Thumbs.db
