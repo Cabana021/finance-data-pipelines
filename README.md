@@ -19,6 +19,7 @@ A stack foi escolhida para refletir práticas modernas e eficiência local.
 - Python como base pela flexibilidade e ecossistema.
 - Polars para transformação de dados com alto desempenho e baixo consumo de memória.
 - PyArrow e Parquet para armazenamento colunar e histórico incremental.
+- DuckDB para consultas analíticas em SQL sobre dados locais e arquivos Parquet.
 - Dagster para orquestração e reprodutibilidade dos pipelines.
 - Great Expectations para validação e garantia de qualidade dos dados.
 - SQLite como camada leve de persistência local e metadados.
