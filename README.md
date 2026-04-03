@@ -13,13 +13,7 @@ Esses pipelines ingerem arquivos operacionais, padronizam e validam dados, mant�
 O resultado é um conjunto de relatórios diários simples, com métricas confiáveis e prontas para consumo por áreas não técnicas.
 
 [![Python](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Polars](https://img.shields.io/badge/Polars-transformação-CD1430?style=flat)](https://pola.rs/)
-[![DuckDB](https://img.shields.io/badge/DuckDB-SQL_analítico-FFD662?style=flat&logo=duckdb&logoColor=black)](https://duckdb.org/)
-[![Dagster](https://img.shields.io/badge/Dagster-orquestração-4C48FF?style=flat&logo=dagster&logoColor=white)](https://dagster.io/)
-[![Parquet](https://img.shields.io/badge/Parquet-colunar-50A14F?style=flat&logo=apacheparquet&logoColor=white)](https://parquet.apache.org/)
-[![MotherDuck](https://img.shields.io/badge/MotherDuck-warehouse-000000?style=flat)](https://motherduck.com/)
-[![XlsxWriter](https://img.shields.io/badge/XlsxWriter-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://xlsxwriter.readthedocs.io/)
-[![Faker](https://img.shields.io/badge/Faker-dados_sintéticos-7B68EE?style=flat)](https://faker.readthedocs.io/)
+[![CI](https://img.shields.io/github/actions/workflow/status/Cabana021/finance-data-pipelines/ci.yml?branch=main&label=CI&style=flat&logo=githubactions&logoColor=white)](https://github.com/Cabana021/finance-data-pipelines/actions/workflows/ci.yml)
 
 ## Stack tecnológica
 
